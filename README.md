@@ -1,4 +1,9 @@
-## Hi there 👋
+
+
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Varun%20B%20Karmikanda&section=header&reversal=false)
+
+
+
 
 <!--
 **varun-karmikanda/varun-karmikanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
