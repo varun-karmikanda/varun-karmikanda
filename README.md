@@ -1,6 +1,6 @@
 
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Varun%20B%20Karmikanda&section=header&reversal=false)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Varun%20B%20Karmikanda&fontColor=B0B0B0&fontSize=70&reversal=false)
 
 
 
