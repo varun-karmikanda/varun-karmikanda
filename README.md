@@ -23,7 +23,7 @@ Hey there! 👋 I'm **Varun B Karmikanda**, a passionate **Computer Science Engi
 
 🎯 **Current Missions:**  
 • Engineering robust systems that **solve real problems**  
-• Crushing **coding challenges** and **CTFs** 
+• Crushing **coding challenges** and **CTFs**   
 • Diving into **cutting-edge tech** and **AI/ML** innovations
 
 ---
