@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Varun%20B%20Karmikanda&fontColor=B0B0B0&fontSize=e)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer;Tech+Enthusiast;DS+%26+Algo+Ninja;Full-Stack+Crafter;AI%2FML+Explorer;Code Infiltrator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;Tech+Enthusiast;DS+and+Algo+Ninja;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 
