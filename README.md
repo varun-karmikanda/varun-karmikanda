@@ -58,6 +58,7 @@ Hey there! 👋 I'm **Varun B Karmikanda**, a passionate **Computer Science Engi
 </div>
 
 • **C** - System programming and algorithm implementation  
+• **C++** – High-performance applications, system programming, and competitive algorithms  
 • **Java** - Object-oriented programming and enterprise applications  
 • **Python** - Data analysis, automation, and backend development  
 
