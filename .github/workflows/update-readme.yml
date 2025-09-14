@@ -1,13 +1,10 @@
 name: Update README with fresh stats
 
-# ensure the workflow can push changes
 permissions:
-  contents: write
+  contents: write   # allow workflow to push changes
 
 on:
-  schedule:
-    - cron: '0 0 * * *'   # runs daily at 00:00 UTC (change if you want)
-  workflow_dispatch:      # allows manual run from Actions tab
+  workflow_dispatch:   # only runs when triggered manually
 
 jobs:
   update-readme:
@@ -21,34 +18,39 @@ jobs:
       - name: Refresh README image URL
         run: |
           python - <<'PY'
-          import re, time, pathlib, sys
+          import re, time, pathlib
           p = pathlib.Path('README.md')
           if not p.exists():
-              print("README.md not found — nothing to do.")
-              sys.exit(0)
+              print("README.md not found — exiting")
+              raise SystemExit(0)
+
           s = p.read_text(encoding='utf8')
           ts = str(int(time.time()))
-          # find the first occurrence of the top-langs API URL (adjust username if needed)
-          pattern = re.compile(r'(https://varun-karmikanda-github-stats\.vercel\.app/api/top-langs/[^"\\s]*)', re.IGNORECASE)
-          m = pattern.search(s)
-          if not m:
-              print("No top-langs URL found in README.md")
-              sys.exit(0)
-          base = m.group(1).split('?')[0]
-          new_url = base + '?username=varun-karmikanda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&v=' + ts
-          new_s = s[:m.start(1)] + new_url + s[m.end(1):]
-          p.write_text(new_s, encoding='utf8')
-          print("Updated README with timestamp:", ts)
+
+          # match ONLY your top-langs image URL
+          pattern = re.compile(r'(https://varun-karmikanda-github-stats\.vercel\.app/api/top-langs/\?[^" ]+)')
+          def repl(m):
+              url = m.group(1)
+              # remove old &v=... param if present
+              url = re.sub(r'&v=\d+', '', url)
+              return url + '&v=' + ts
+
+          new_s = pattern.sub(repl, s)
+          if new_s != s:
+              p.write_text(new_s, encoding='utf8')
+              print("✅ Updated README with timestamp:", ts)
+          else:
+              print("ℹ️ No matching URL found, nothing changed.")
           PY
 
       - name: Commit & push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git status --porcelain | grep -q '.'; then
+          if git status --porcelain | grep -q 'README.md'; then
             git add README.md
             git commit -m "🔄 Refresh stats in README [skip ci]" || echo "Nothing to commit"
             git push
           else
-            echo "No changes detected"
+            echo "No changes to commit"
           fi
