@@ -125,7 +125,7 @@ Hey there! 👋 I'm **Varun B Karmikanda**, a passionate **Computer Science Engi
 </div>
 
 <div align="center">
-  <img src="https://varun-karmikanda-github-stats.vercel.app/api/top-langs/?username=varun-karmikanda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=truesername=varun-karmikanda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&v=1757876220" alt="Top Languages" />
+  <img src="https://varun-karmikanda-github-stats.vercel.app/api/top-langs/?username=varun-karmikanda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
 </div>
 
 
