@@ -57,12 +57,6 @@ Hey there! 👋 I'm **Varun B Karmikanda**, a passionate **Computer Science Engi
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
-• **C** - System programming and algorithm implementation  
-• **C++** – High-performance applications, system programming, and competitive algorithms  
-• **Java** - Object-oriented programming and enterprise applications  
-• **Python** - Data analysis, automation, and backend development  
-
-<br>
 
 ### **🌐 Technologies**
 <div align="left">
@@ -74,11 +68,7 @@ Hey there! 👋 I'm **Varun B Karmikanda**, a passionate **Computer Science Engi
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </div>
 
-• **Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS  
-• **Backend:** Express.js, Node.js  
-• **Responsive Design** and **Modern UI/UX** practices  
 
-<br>
 
 ### **🗄️ Database Technologies**
 <div align="left">
@@ -86,10 +76,7 @@ Hey there! 👋 I'm **Varun B Karmikanda**, a passionate **Computer Science Engi
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
-• **MySQL** - Relational database design and optimization  
-• **MongoDB** - NoSQL database and document-based storage  
 
-<br>
 
 ### **🔧 Tools**
 <div align="left">
@@ -99,21 +86,14 @@ Hey there! 👋 I'm **Varun B Karmikanda**, a passionate **Computer Science Engi
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
 </div>
 
-• **Version Control:** Git, GitHub  
-• **Design:** Figma for UI/UX design  
-• **Testing:** Jasmine framework  
-• **Mobile Development:** Android Studio  
 
-<br>
 
 ### **🖥️ Platforms**
 <div align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
-
-• **Cross-platform development** experience  
-• **Command line proficiency** in both environments  
+ 
 
 ---
 
