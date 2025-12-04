@@ -9,26 +9,14 @@
 
 ---
 
-## 🚀 **About Me**
+##  **About Me**
 
-Hey there! 👋 I'm **Varun B Karmikanda**, a passionate **Computer Science Engineering student** at **SJEC Mangalore** 🎓  
-
-💥 **What I Build:**  
-⚡ Turning ideas into **real-world solutions**  
-🧩 Shaping **full-stack products** with impact  
-🧠 Experimenting with **AI & Machine Learning projects**  
-🚀 **Leveling up, breaking stuff** and **leveling up daily**  
-
-<br>
-
-🎯 **Current Missions:**  
-• Engineering robust systems that **solve real problems**  
-• Crushing **coding challenges** and **CTFs**   
-• Diving into **cutting-edge tech** and **AI/ML** innovations
+Hey there! I'm **Varun B Karmikanda**, a passionate **Computer Science Engineering student** at **SJEC Mangalore**   
+Building strong foundations in **DSA** and **Software Engineering**. Obsessed with **clean code** and **optimization**.
 
 ---
 
-## 🌐 **Connect With Me**
+##  **Connect With Me**
 
 <div align="center">
   <a href="mailto:varunbkarmikanda@gmail.com">
@@ -47,18 +35,18 @@ Hey there! 👋 I'm **Varun B Karmikanda**, a passionate **Computer Science Engi
 
 ---
 
-## 🛠️ **Tech Stack & Skills**
+##  **Tech Stack & Skills**
 
-### **💻 Programming Languages**
+### **Programming Languages**
 <div align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <!-- <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
 
-### **🌐 Technologies**
+### **Technologies**
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -70,7 +58,7 @@ Hey there! 👋 I'm **Varun B Karmikanda**, a passionate **Computer Science Engi
 
 
 
-### **🗄️ Database Technologies**
+### **Database Technologies**
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -78,17 +66,17 @@ Hey there! 👋 I'm **Varun B Karmikanda**, a passionate **Computer Science Engi
 
 
 
-### **🔧 Tools**
+### **Tools**
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <!-- <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" /> -->
 </div>
 
 
 
-### **🖥️ Platforms**
+### **Platforms**
 <div align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -97,7 +85,7 @@ Hey there! 👋 I'm **Varun B Karmikanda**, a passionate **Computer Science Engi
 
 ---
 
-## 📊 **GitHub Statistics**
+##  **GitHub Statistics**
 
 <div align="center">
   <img src="https://varun-karmikanda-github-stats.vercel.app/api?username=varun-karmikanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
